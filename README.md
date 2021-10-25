@@ -1,4 +1,4 @@
-# Programação Funcional com pela Alura
+# Programação Funcional PHP pela Alura
 
 
 ## Inicio: Releembrando funções
